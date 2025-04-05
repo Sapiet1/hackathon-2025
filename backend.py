@@ -28,19 +28,19 @@ ideals = {
     },
     mood_names[1]: {
         weather_detail_names[0]: 35,
-        weather_detail_names[1]: 1,
+        weather_detail_names[1]: 0,
         weather_detail_names[2]: 20,
         weather_detail_names[3]: 0.8,
     },
     mood_names[2]: {
         weather_detail_names[0]: 23,
-        weather_detail_names[1]: 1,
+        weather_detail_names[1]: 0,
         weather_detail_names[2]: 20,
         weather_detail_names[3]: 0.9,
     },
     mood_names[3]: {
         weather_detail_names[0]: 23,
-        weather_detail_names[1]: 1,
+        weather_detail_names[1]: 0,
         weather_detail_names[2]: 20,
         weather_detail_names[3]: 0.9,
     },
